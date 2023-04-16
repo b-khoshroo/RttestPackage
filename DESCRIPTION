@@ -1,0 +1,13 @@
+Package: RttestPackage
+Type: Package
+Title: Creates an Rttest object and print it
+Version: 0.1.0
+Author: Babak M. Khoshroo
+Maintainer: Babak M. Khoshroo <b.khoshroo@ou.edu>
+Description: It contains a constructor for Rttest class and a print 
+function in it.
+Imports:
+  kableExtra
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
